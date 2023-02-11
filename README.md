@@ -40,3 +40,8 @@
   * Ex: Dynamically typed - JavaScript, PHP, Python, Ruby.
 
 ### Differentiate between the JavaScript data types ‘null’ and ‘undefined&nbsp;?
+
+* 'null' in Js is an assignment value; it can be assigned to a variable as a representation of no value yet. 
+  * Ex: let testVar = null;
+      * console.log(testVar); //logs null
+      * console.log(typeof testVar); //logs object 
