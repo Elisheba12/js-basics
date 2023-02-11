@@ -7,11 +7,11 @@
 
 ### Name 5 things JavaScript can do?
 
-* Mobile App Development.
-* Frontend Web Development.
-* Backend Web Development.
-* Game Development.
-* Artificial Intelligence - Machine learning.
+* Program Websites.
+* Build Web Applications.
+* Build Server Applications.
+* Games.
+* Build Mobile Apps.
 
 
 ### When was ECMAScript first released?
@@ -26,6 +26,11 @@
 
 ### List the tech fields that use JavaScript, for example FrontEnd?
 
+* Mobile App Development.
+* Frontend Web Development.
+* Backend Web Development.
+* Game Development.
+* Artificial Intelligence - Machine learning.
 
 ### Differentiate between Statically typed and Dynamically typed programming languages and give examples of languages that fall under each category?
 
