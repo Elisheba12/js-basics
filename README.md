@@ -45,3 +45,8 @@
   * Ex: let testVar = null;
     * console.log(testVar); // logs null
     * console.log(typeof testVar); // logs object 
+
+* 'undefined' means a variable had been declared but has not been assigned a value.
+  * Ex: let testVar;
+    * console.log(testVar); // logs undefined
+    * console.log(typeof testVar); //logs undefined
