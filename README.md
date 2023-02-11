@@ -7,22 +7,22 @@
 
 ### Name 5 things JavaScript can do?
 
-* Mobile App Development
-* Frontend Web Development
-* Backend Web Development
-* Game Development
-* Artificial Intelligence - Machine learning
+* Mobile App Development.
+* Frontend Web Development.
+* Backend Web Development.
+* Game Development.
+* Artificial Intelligence - Machine learning.
 
 
 ### When was ECMAScript first released?
 
-* The first version of ECMAScript was release in 1997
+* The first version of ECMAScript was release in 1997.
 
 ### How do you log to the console?
 
-* console.log()
-* ex: console.log("Hello World!") 
-  * This example logs Hello World! to the console
+* console.log();
+* ex: console.log("Hello World!");
+  * This example logs Hello World! to the console.
 
 ### List the tech fields that use JavaScript, for example FrontEnd?
 
