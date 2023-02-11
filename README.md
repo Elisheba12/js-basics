@@ -34,5 +34,8 @@
 
 ### Differentiate between Statically typed and Dynamically typed programming languages and give examples of languages that fall under each category?
 
+* Static typed languages requires the explicit definition of a data type when they creating a piece of data (e.g. variable, parameter, return value). Dynamic languages are the opposite and can infer, or at least try to guess, the type that we’re using.
+  * Ex: Statically typed - Java, C, C++, C#, Go.
+  * Ex: Dynamically typed - JavaScript, PHP, Python, Ruby.
 
 ### Differentiate between the JavaScript data types ‘null’ and ‘undefined&nbsp;?
