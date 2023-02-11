@@ -43,5 +43,5 @@
 
 * 'null' in Js is an assignment value; it can be assigned to a variable as a representation of no value yet. 
   * Ex: let testVar = null;
-      * console.log(testVar); //logs null
-      * console.log(typeof testVar); //logs object 
+    * console.log(testVar); // logs null
+    * console.log(typeof testVar); // logs object 
