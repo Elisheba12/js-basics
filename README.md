@@ -4,7 +4,6 @@
 
 * In 2009,Ryan Dahl, took the open source Javascript engine in Chrome and embedded it inside a C++ program. He named the program Node. Node is a C++ program that includes googles v8 Javascript engine. Node allows us to run Javascript code outside of a browser.
 
-
 ### Name 5 things JavaScript can do?
 
 * Program Websites.
@@ -12,7 +11,6 @@
 * Build Server Applications.
 * Games.
 * Build Mobile Apps.
-
 
 ### When was ECMAScript first released?
 
@@ -41,10 +39,10 @@
 
 ### Differentiate between the JavaScript data types ‘null’ and ‘undefined&nbsp;?
 
-* 'null' in Js is an assignment value; it can be assigned to a variable as a representation of no value yet. 
+* 'null' in Js is an assignment value; it can be assigned to a variable as a representation of no value yet.
   * Ex: let testVar = null;
     * console.log(testVar); // logs null
-    * console.log(typeof testVar); // logs object 
+    * console.log(typeof testVar); // logs object
 
 * 'undefined' means a variable had been declared but has not been assigned a value.
   * Ex: let testVar;
